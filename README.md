@@ -27,23 +27,4 @@ MHM(Mental Health Matters) is an AI driven web app whose main objective is to ra
 
 4. **MHM Blog:** The project includes a dedicated blog section where users can share their experiences, insights, lifestyle tips, and recommendations related to mental health. The blog provides a platform for fostering community engagement, promoting discussions, and building a supportive network for individuals interested in mental health matters.
 
-# Pre-requisites
-Before you start working with the application make sure you have following installed
-- [npm](https://docs.npmjs.com/cli/v6/commands/npm-install)
-- [Python](https://www.python.org/downloads/)
-
-# Installation
-To get started with MHM, follow the steps
-1. Clone the repo
-  ```bash
-  git clone https://github.com/Chhabii/MHM.git
-  ```
-2. Install all requirements
- ```bash
- pip install -r requirements.txt
- ```
-3. Start the server and you are good to go
-```bash
-python manage.py runserver
-```
 
